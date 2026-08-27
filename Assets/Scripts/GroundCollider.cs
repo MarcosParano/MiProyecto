@@ -1,7 +1,7 @@
 using UnityEngine;
 
 
-public class GroundCollider : MonoBehaviour
+public class GroundCollider  : MonoBehaviour
 {
     public static bool isGrounded;
 
